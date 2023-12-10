@@ -1,0 +1,29 @@
+#form {
+    text-align: center;
+    width: 400px;
+    border-radius: 10px;
+    border: 1px black solid;
+    background-color: rgb(255, 192, 74);
+    height: 500px;
+    margin: auto; 
+    padding: 20px; 
+    box-sizing: border-box; 
+}
+
+#form input {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+#log-in{
+    height: 50px;
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
